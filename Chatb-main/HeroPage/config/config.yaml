@@ -1,0 +1,37 @@
+cookie:
+  expiry_days: 30
+  key: sunshine_auth
+  name: sunshine_auth_cookie
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Admin User
+      password: $2b$12$NP699PpAF.o75tf1yo7a..BmpV2k42GHhhneS9DWf9rz0t7csi4PW
+    rasassy:
+      email: rasika2@gmail.com
+      name: Rasika T
+      password: $2b$12$jHVWUrn7zY8YvkMLpEW39uvaMANzgvvkhCbzl8zM/j6w3MtImuu.u
+    raseeekaaa:
+      email: rasikataware1@gmail.com
+      name: Rasika Taware
+      password: $2b$12$NdXo8rg9Zsrc/Fk4XNC.W.udjKHojKNuadP.Y2aWnpXjj2Rl7HbOq
+    rasi:
+      email: rasik12@gmail.com
+      name: Rasu Twar
+      password: $2b$12$k7xEt/BH7rrG6lRMj4acG.l4EKY00vcTK6j7/mmEWsjZVwlXDFgTC
+    rush:
+      email: RUSHK29u9u@gmail.com
+      name: J
+      password: $2b$12$jso8LFoGvQ2ShbhzHfAtnuL3z1GyG9hPX.odHNAFbvKgfek1AShgO
+    sekiro:
+      email: huzaifakhanabc@gmail.com
+      name: Huzaifa Khan
+      password: $2b$12$MT2RdOJ1dR265gqlOWNr4.uEYrF7OXeTx.uQNkEH3okY7Omm9IvM2
+    snowman:
+      email: huzaifkhanabc@gmail.com
+      name: huzaif
+      password: $2b$12$HgXlKkyXagfH0Hom3s4ilO7omoy1BnwMpm0tzGcrtqzVeitNK/lSu
+preauthorized:
+  emails:
+  - admin@example.com

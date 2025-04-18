@@ -1,0 +1,1596 @@
+{
+  "training_data": [
+    {
+      "input": "I'm feeling anxious",
+      "response": "Hello! I'm here to listen. What would you like to talk about?",
+      "type": "greeting"
+    },
+    {
+      "input": "I'm feeling anxious",
+      "response": "I hear how difficult this is for you.",
+      "type": "validation"
+    },
+    {
+      "input": "I just need someone to talk to",
+      "response": "When did you first notice this?",
+      "type": "follow_up"
+    },
+    {
+      "input": "I'm feeling sad",
+      "response": "Hi there! What's on your mind?",
+      "type": "greeting"
+    },
+    {
+      "input": "I'm feeling sad",
+      "response": "That's a lot to deal with.",
+      "type": "validation"
+    },
+    {
+      "input": "I just need someone to talk to",
+      "response": "Tell me more about that.",
+      "type": "follow_up"
+    },
+    {
+      "input": "I'm feeling overwhelmed",
+      "response": "Hi! What brings you here today?",
+      "type": "greeting"
+    },
+    {
+      "input": "I'm feeling overwhelmed",
+      "response": "It makes sense that you'd feel this way.",
+      "type": "validation"
+    },
+    {
+      "input": "I just need someone to talk to",
+      "response": "Tell me more about that.",
+      "type": "follow_up"
+    },
+    {
+      "input": "I'm feeling stressed",
+      "response": "Hi there! What's on your mind?",
+      "type": "greeting"
+    },
+    {
+      "input": "I'm feeling stressed",
+      "response": "I hear how difficult this is for you.",
+      "type": "validation"
+    },
+    {
+      "input": "I just need someone to talk to",
+      "response": "Tell me more about that.",
+      "type": "follow_up"
+    },
+    {
+      "input": "I'm feeling lonely",
+      "response": "Hey, how are you feeling today?",
+      "type": "greeting"
+    },
+    {
+      "input": "I'm feeling lonely",
+      "response": "That's a lot to deal with.",
+      "type": "validation"
+    },
+    {
+      "input": "I just need someone to talk to",
+      "response": "How long have you been feeling this way?",
+      "type": "follow_up"
+    },
+    {
+      "input": "I'm feeling confused",
+      "response": "Hello! I'm here to listen. What would you like to talk about?",
+      "type": "greeting"
+    },
+    {
+      "input": "I'm feeling confused",
+      "response": "It makes sense that you'd feel this way.",
+      "type": "validation"
+    },
+    {
+      "input": "I just need someone to talk to",
+      "response": "How long have you been feeling this way?",
+      "type": "follow_up"
+    },
+    {
+      "input": "I need help with International Association for Suicide Prevention",
+      "response": "I understand you need help with International Association for Suicide Prevention. Directory of crisis centers around the world You can reach them at https://www.iasp.info/resources/Crisis_Centres/.",
+      "type": "crisis",
+      "region": "global"
+    },
+    {
+      "input": "Can you tell me about International Association for Suicide Prevention?",
+      "response": "I understand you need help with International Association for Suicide Prevention. Directory of crisis centers around the world You can reach them at https://www.iasp.info/resources/Crisis_Centres/.",
+      "type": "crisis",
+      "region": "global"
+    },
+    {
+      "input": "I'm looking for support from International Association for Suicide Prevention",
+      "response": "I understand you need help with International Association for Suicide Prevention. Directory of crisis centers around the world You can reach them at https://www.iasp.info/resources/Crisis_Centres/.",
+      "type": "crisis",
+      "region": "global"
+    },
+    {
+      "input": "Where can I find International Association for Suicide Prevention?",
+      "response": "I understand you need help with International Association for Suicide Prevention. Directory of crisis centers around the world You can reach them at https://www.iasp.info/resources/Crisis_Centres/.",
+      "type": "crisis",
+      "region": "global"
+    },
+    {
+      "input": "I need help with National Suicide Prevention Lifeline",
+      "response": "I understand you need help with National Suicide Prevention Lifeline. 24/7 free and confidential support for people in distress You can reach them at https://suicidepreventionlifeline.org/.",
+      "type": "crisis",
+      "region": "united_states"
+    },
+    {
+      "input": "Can you tell me about National Suicide Prevention Lifeline?",
+      "response": "I understand you need help with National Suicide Prevention Lifeline. 24/7 free and confidential support for people in distress You can reach them at https://suicidepreventionlifeline.org/.",
+      "type": "crisis",
+      "region": "united_states"
+    },
+    {
+      "input": "I'm looking for support from National Suicide Prevention Lifeline",
+      "response": "I understand you need help with National Suicide Prevention Lifeline. 24/7 free and confidential support for people in distress You can reach them at https://suicidepreventionlifeline.org/.",
+      "type": "crisis",
+      "region": "united_states"
+    },
+    {
+      "input": "Where can I find National Suicide Prevention Lifeline?",
+      "response": "I understand you need help with National Suicide Prevention Lifeline. 24/7 free and confidential support for people in distress You can reach them at https://suicidepreventionlifeline.org/.",
+      "type": "crisis",
+      "region": "united_states"
+    },
+    {
+      "input": "I need help with Crisis Text Line",
+      "response": "I understand you need help with Crisis Text Line. Text-based crisis support available 24/7 You can reach them at https://www.crisistextline.org/.",
+      "type": "crisis",
+      "region": "united_states"
+    },
+    {
+      "input": "Can you tell me about Crisis Text Line?",
+      "response": "I understand you need help with Crisis Text Line. Text-based crisis support available 24/7 You can reach them at https://www.crisistextline.org/.",
+      "type": "crisis",
+      "region": "united_states"
+    },
+    {
+      "input": "I'm looking for support from Crisis Text Line",
+      "response": "I understand you need help with Crisis Text Line. Text-based crisis support available 24/7 You can reach them at https://www.crisistextline.org/.",
+      "type": "crisis",
+      "region": "united_states"
+    },
+    {
+      "input": "Where can I find Crisis Text Line?",
+      "response": "I understand you need help with Crisis Text Line. Text-based crisis support available 24/7 You can reach them at https://www.crisistextline.org/.",
+      "type": "crisis",
+      "region": "united_states"
+    },
+    {
+      "input": "I need help with SAMHSA's National Helpline",
+      "response": "I understand you need help with SAMHSA's National Helpline. Treatment referral and information service (in English and Spanish) You can reach them at https://www.samhsa.gov/find-help/national-helpline.",
+      "type": "crisis",
+      "region": "united_states"
+    },
+    {
+      "input": "Can you tell me about SAMHSA's National Helpline?",
+      "response": "I understand you need help with SAMHSA's National Helpline. Treatment referral and information service (in English and Spanish) You can reach them at https://www.samhsa.gov/find-help/national-helpline.",
+      "type": "crisis",
+      "region": "united_states"
+    },
+    {
+      "input": "I'm looking for support from SAMHSA's National Helpline",
+      "response": "I understand you need help with SAMHSA's National Helpline. Treatment referral and information service (in English and Spanish) You can reach them at https://www.samhsa.gov/find-help/national-helpline.",
+      "type": "crisis",
+      "region": "united_states"
+    },
+    {
+      "input": "Where can I find SAMHSA's National Helpline?",
+      "response": "I understand you need help with SAMHSA's National Helpline. Treatment referral and information service (in English and Spanish) You can reach them at https://www.samhsa.gov/find-help/national-helpline.",
+      "type": "crisis",
+      "region": "united_states"
+    },
+    {
+      "input": "I'm struggling with anxiety",
+      "response": "For anxiety, here's a helpful strategy: Deep breathing exercises: Breathe in for 4 counts, hold for 2, and exhale for 6",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Deep breathing exercises: Breathe in for 4 counts, hold for 2, and exhale for 6",
+      "response": "Let me explain this strategy in more detail. Deep breathing exercises: Breathe in for 4 counts, hold for 2, and exhale for 6 This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "How can I deal with anxiety?",
+      "response": "For anxiety, here's a helpful strategy: Deep breathing exercises: Breathe in for 4 counts, hold for 2, and exhale for 6",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Deep breathing exercises: Breathe in for 4 counts, hold for 2, and exhale for 6",
+      "response": "Let me explain this strategy in more detail. Deep breathing exercises: Breathe in for 4 counts, hold for 2, and exhale for 6 This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "I need help managing my anxiety",
+      "response": "For anxiety, here's a helpful strategy: Deep breathing exercises: Breathe in for 4 counts, hold for 2, and exhale for 6",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Deep breathing exercises: Breathe in for 4 counts, hold for 2, and exhale for 6",
+      "response": "Let me explain this strategy in more detail. Deep breathing exercises: Breathe in for 4 counts, hold for 2, and exhale for 6 This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "What can I do about my anxiety?",
+      "response": "For anxiety, here's a helpful strategy: Deep breathing exercises: Breathe in for 4 counts, hold for 2, and exhale for 6",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Deep breathing exercises: Breathe in for 4 counts, hold for 2, and exhale for 6",
+      "response": "Let me explain this strategy in more detail. Deep breathing exercises: Breathe in for 4 counts, hold for 2, and exhale for 6 This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "I'm struggling with anxiety",
+      "response": "For anxiety, here's a helpful strategy: Progressive muscle relaxation: Tense and release each muscle group",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Progressive muscle relaxation: Tense and release each muscle group",
+      "response": "Let me explain this strategy in more detail. Progressive muscle relaxation: Tense and release each muscle group This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "How can I deal with anxiety?",
+      "response": "For anxiety, here's a helpful strategy: Progressive muscle relaxation: Tense and release each muscle group",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Progressive muscle relaxation: Tense and release each muscle group",
+      "response": "Let me explain this strategy in more detail. Progressive muscle relaxation: Tense and release each muscle group This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "I need help managing my anxiety",
+      "response": "For anxiety, here's a helpful strategy: Progressive muscle relaxation: Tense and release each muscle group",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Progressive muscle relaxation: Tense and release each muscle group",
+      "response": "Let me explain this strategy in more detail. Progressive muscle relaxation: Tense and release each muscle group This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "What can I do about my anxiety?",
+      "response": "For anxiety, here's a helpful strategy: Progressive muscle relaxation: Tense and release each muscle group",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Progressive muscle relaxation: Tense and release each muscle group",
+      "response": "Let me explain this strategy in more detail. Progressive muscle relaxation: Tense and release each muscle group This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "I'm struggling with anxiety",
+      "response": "For anxiety, here's a helpful strategy: Grounding techniques: Name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Grounding techniques: Name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste",
+      "response": "Let me explain this strategy in more detail. Grounding techniques: Name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "How can I deal with anxiety?",
+      "response": "For anxiety, here's a helpful strategy: Grounding techniques: Name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Grounding techniques: Name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste",
+      "response": "Let me explain this strategy in more detail. Grounding techniques: Name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "I need help managing my anxiety",
+      "response": "For anxiety, here's a helpful strategy: Grounding techniques: Name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Grounding techniques: Name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste",
+      "response": "Let me explain this strategy in more detail. Grounding techniques: Name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "What can I do about my anxiety?",
+      "response": "For anxiety, here's a helpful strategy: Grounding techniques: Name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Grounding techniques: Name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste",
+      "response": "Let me explain this strategy in more detail. Grounding techniques: Name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "I'm struggling with anxiety",
+      "response": "For anxiety, here's a helpful strategy: Limit caffeine and alcohol consumption",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Limit caffeine and alcohol consumption",
+      "response": "Let me explain this strategy in more detail. Limit caffeine and alcohol consumption This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "How can I deal with anxiety?",
+      "response": "For anxiety, here's a helpful strategy: Limit caffeine and alcohol consumption",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Limit caffeine and alcohol consumption",
+      "response": "Let me explain this strategy in more detail. Limit caffeine and alcohol consumption This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "I need help managing my anxiety",
+      "response": "For anxiety, here's a helpful strategy: Limit caffeine and alcohol consumption",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Limit caffeine and alcohol consumption",
+      "response": "Let me explain this strategy in more detail. Limit caffeine and alcohol consumption This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "What can I do about my anxiety?",
+      "response": "For anxiety, here's a helpful strategy: Limit caffeine and alcohol consumption",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Limit caffeine and alcohol consumption",
+      "response": "Let me explain this strategy in more detail. Limit caffeine and alcohol consumption This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "I'm struggling with anxiety",
+      "response": "For anxiety, here's a helpful strategy: Regular physical exercise",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Regular physical exercise",
+      "response": "Let me explain this strategy in more detail. Regular physical exercise This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "How can I deal with anxiety?",
+      "response": "For anxiety, here's a helpful strategy: Regular physical exercise",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Regular physical exercise",
+      "response": "Let me explain this strategy in more detail. Regular physical exercise This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "I need help managing my anxiety",
+      "response": "For anxiety, here's a helpful strategy: Regular physical exercise",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Regular physical exercise",
+      "response": "Let me explain this strategy in more detail. Regular physical exercise This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "What can I do about my anxiety?",
+      "response": "For anxiety, here's a helpful strategy: Regular physical exercise",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Regular physical exercise",
+      "response": "Let me explain this strategy in more detail. Regular physical exercise This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "I'm struggling with anxiety",
+      "response": "For anxiety, here's a helpful strategy: Mindfulness meditation",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Mindfulness meditation",
+      "response": "Let me explain this strategy in more detail. Mindfulness meditation This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "How can I deal with anxiety?",
+      "response": "For anxiety, here's a helpful strategy: Mindfulness meditation",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Mindfulness meditation",
+      "response": "Let me explain this strategy in more detail. Mindfulness meditation This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "I need help managing my anxiety",
+      "response": "For anxiety, here's a helpful strategy: Mindfulness meditation",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Mindfulness meditation",
+      "response": "Let me explain this strategy in more detail. Mindfulness meditation This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "What can I do about my anxiety?",
+      "response": "For anxiety, here's a helpful strategy: Mindfulness meditation",
+      "type": "coping",
+      "issue": "anxiety"
+    },
+    {
+      "input": "Tell me more about Mindfulness meditation",
+      "response": "Let me explain this strategy in more detail. Mindfulness meditation This can help you manage anxiety by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "anxiety"
+    },
+    {
+      "input": "I'm struggling with depression",
+      "response": "For depression, here's a helpful strategy: Establish a consistent daily routine",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Establish a consistent daily routine",
+      "response": "Let me explain this strategy in more detail. Establish a consistent daily routine This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "How can I deal with depression?",
+      "response": "For depression, here's a helpful strategy: Establish a consistent daily routine",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Establish a consistent daily routine",
+      "response": "Let me explain this strategy in more detail. Establish a consistent daily routine This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "I need help managing my depression",
+      "response": "For depression, here's a helpful strategy: Establish a consistent daily routine",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Establish a consistent daily routine",
+      "response": "Let me explain this strategy in more detail. Establish a consistent daily routine This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "What can I do about my depression?",
+      "response": "For depression, here's a helpful strategy: Establish a consistent daily routine",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Establish a consistent daily routine",
+      "response": "Let me explain this strategy in more detail. Establish a consistent daily routine This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "I'm struggling with depression",
+      "response": "For depression, here's a helpful strategy: Set small, achievable goals for yourself",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Set small, achievable goals for yourself",
+      "response": "Let me explain this strategy in more detail. Set small, achievable goals for yourself This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "How can I deal with depression?",
+      "response": "For depression, here's a helpful strategy: Set small, achievable goals for yourself",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Set small, achievable goals for yourself",
+      "response": "Let me explain this strategy in more detail. Set small, achievable goals for yourself This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "I need help managing my depression",
+      "response": "For depression, here's a helpful strategy: Set small, achievable goals for yourself",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Set small, achievable goals for yourself",
+      "response": "Let me explain this strategy in more detail. Set small, achievable goals for yourself This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "What can I do about my depression?",
+      "response": "For depression, here's a helpful strategy: Set small, achievable goals for yourself",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Set small, achievable goals for yourself",
+      "response": "Let me explain this strategy in more detail. Set small, achievable goals for yourself This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "I'm struggling with depression",
+      "response": "For depression, here's a helpful strategy: Physical activity, even if just a short walk",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Physical activity, even if just a short walk",
+      "response": "Let me explain this strategy in more detail. Physical activity, even if just a short walk This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "How can I deal with depression?",
+      "response": "For depression, here's a helpful strategy: Physical activity, even if just a short walk",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Physical activity, even if just a short walk",
+      "response": "Let me explain this strategy in more detail. Physical activity, even if just a short walk This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "I need help managing my depression",
+      "response": "For depression, here's a helpful strategy: Physical activity, even if just a short walk",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Physical activity, even if just a short walk",
+      "response": "Let me explain this strategy in more detail. Physical activity, even if just a short walk This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "What can I do about my depression?",
+      "response": "For depression, here's a helpful strategy: Physical activity, even if just a short walk",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Physical activity, even if just a short walk",
+      "response": "Let me explain this strategy in more detail. Physical activity, even if just a short walk This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "I'm struggling with depression",
+      "response": "For depression, here's a helpful strategy: Connect with supportive friends or family",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Connect with supportive friends or family",
+      "response": "Let me explain this strategy in more detail. Connect with supportive friends or family This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "How can I deal with depression?",
+      "response": "For depression, here's a helpful strategy: Connect with supportive friends or family",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Connect with supportive friends or family",
+      "response": "Let me explain this strategy in more detail. Connect with supportive friends or family This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "I need help managing my depression",
+      "response": "For depression, here's a helpful strategy: Connect with supportive friends or family",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Connect with supportive friends or family",
+      "response": "Let me explain this strategy in more detail. Connect with supportive friends or family This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "What can I do about my depression?",
+      "response": "For depression, here's a helpful strategy: Connect with supportive friends or family",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Connect with supportive friends or family",
+      "response": "Let me explain this strategy in more detail. Connect with supportive friends or family This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "I'm struggling with depression",
+      "response": "For depression, here's a helpful strategy: Practice self-compassion and challenge negative thoughts",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Practice self-compassion and challenge negative thoughts",
+      "response": "Let me explain this strategy in more detail. Practice self-compassion and challenge negative thoughts This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "How can I deal with depression?",
+      "response": "For depression, here's a helpful strategy: Practice self-compassion and challenge negative thoughts",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Practice self-compassion and challenge negative thoughts",
+      "response": "Let me explain this strategy in more detail. Practice self-compassion and challenge negative thoughts This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "I need help managing my depression",
+      "response": "For depression, here's a helpful strategy: Practice self-compassion and challenge negative thoughts",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Practice self-compassion and challenge negative thoughts",
+      "response": "Let me explain this strategy in more detail. Practice self-compassion and challenge negative thoughts This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "What can I do about my depression?",
+      "response": "For depression, here's a helpful strategy: Practice self-compassion and challenge negative thoughts",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Practice self-compassion and challenge negative thoughts",
+      "response": "Let me explain this strategy in more detail. Practice self-compassion and challenge negative thoughts This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "I'm struggling with depression",
+      "response": "For depression, here's a helpful strategy: Engage in activities that previously brought joy, even if motivation is low",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Engage in activities that previously brought joy, even if motivation is low",
+      "response": "Let me explain this strategy in more detail. Engage in activities that previously brought joy, even if motivation is low This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "How can I deal with depression?",
+      "response": "For depression, here's a helpful strategy: Engage in activities that previously brought joy, even if motivation is low",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Engage in activities that previously brought joy, even if motivation is low",
+      "response": "Let me explain this strategy in more detail. Engage in activities that previously brought joy, even if motivation is low This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "I need help managing my depression",
+      "response": "For depression, here's a helpful strategy: Engage in activities that previously brought joy, even if motivation is low",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Engage in activities that previously brought joy, even if motivation is low",
+      "response": "Let me explain this strategy in more detail. Engage in activities that previously brought joy, even if motivation is low This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "What can I do about my depression?",
+      "response": "For depression, here's a helpful strategy: Engage in activities that previously brought joy, even if motivation is low",
+      "type": "coping",
+      "issue": "depression"
+    },
+    {
+      "input": "Tell me more about Engage in activities that previously brought joy, even if motivation is low",
+      "response": "Let me explain this strategy in more detail. Engage in activities that previously brought joy, even if motivation is low This can help you manage depression by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "depression"
+    },
+    {
+      "input": "I'm struggling with stress",
+      "response": "For stress, here's a helpful strategy: Time management and prioritization of tasks",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Time management and prioritization of tasks",
+      "response": "Let me explain this strategy in more detail. Time management and prioritization of tasks This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "How can I deal with stress?",
+      "response": "For stress, here's a helpful strategy: Time management and prioritization of tasks",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Time management and prioritization of tasks",
+      "response": "Let me explain this strategy in more detail. Time management and prioritization of tasks This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "I need help managing my stress",
+      "response": "For stress, here's a helpful strategy: Time management and prioritization of tasks",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Time management and prioritization of tasks",
+      "response": "Let me explain this strategy in more detail. Time management and prioritization of tasks This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "What can I do about my stress?",
+      "response": "For stress, here's a helpful strategy: Time management and prioritization of tasks",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Time management and prioritization of tasks",
+      "response": "Let me explain this strategy in more detail. Time management and prioritization of tasks This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "I'm struggling with stress",
+      "response": "For stress, here's a helpful strategy: Setting boundaries with work and relationships",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Setting boundaries with work and relationships",
+      "response": "Let me explain this strategy in more detail. Setting boundaries with work and relationships This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "How can I deal with stress?",
+      "response": "For stress, here's a helpful strategy: Setting boundaries with work and relationships",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Setting boundaries with work and relationships",
+      "response": "Let me explain this strategy in more detail. Setting boundaries with work and relationships This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "I need help managing my stress",
+      "response": "For stress, here's a helpful strategy: Setting boundaries with work and relationships",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Setting boundaries with work and relationships",
+      "response": "Let me explain this strategy in more detail. Setting boundaries with work and relationships This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "What can I do about my stress?",
+      "response": "For stress, here's a helpful strategy: Setting boundaries with work and relationships",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Setting boundaries with work and relationships",
+      "response": "Let me explain this strategy in more detail. Setting boundaries with work and relationships This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "I'm struggling with stress",
+      "response": "For stress, here's a helpful strategy: Regular relaxation practices like yoga or tai chi",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Regular relaxation practices like yoga or tai chi",
+      "response": "Let me explain this strategy in more detail. Regular relaxation practices like yoga or tai chi This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "How can I deal with stress?",
+      "response": "For stress, here's a helpful strategy: Regular relaxation practices like yoga or tai chi",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Regular relaxation practices like yoga or tai chi",
+      "response": "Let me explain this strategy in more detail. Regular relaxation practices like yoga or tai chi This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "I need help managing my stress",
+      "response": "For stress, here's a helpful strategy: Regular relaxation practices like yoga or tai chi",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Regular relaxation practices like yoga or tai chi",
+      "response": "Let me explain this strategy in more detail. Regular relaxation practices like yoga or tai chi This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "What can I do about my stress?",
+      "response": "For stress, here's a helpful strategy: Regular relaxation practices like yoga or tai chi",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Regular relaxation practices like yoga or tai chi",
+      "response": "Let me explain this strategy in more detail. Regular relaxation practices like yoga or tai chi This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "I'm struggling with stress",
+      "response": "For stress, here's a helpful strategy: Ensuring adequate sleep",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Ensuring adequate sleep",
+      "response": "Let me explain this strategy in more detail. Ensuring adequate sleep This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "How can I deal with stress?",
+      "response": "For stress, here's a helpful strategy: Ensuring adequate sleep",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Ensuring adequate sleep",
+      "response": "Let me explain this strategy in more detail. Ensuring adequate sleep This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "I need help managing my stress",
+      "response": "For stress, here's a helpful strategy: Ensuring adequate sleep",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Ensuring adequate sleep",
+      "response": "Let me explain this strategy in more detail. Ensuring adequate sleep This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "What can I do about my stress?",
+      "response": "For stress, here's a helpful strategy: Ensuring adequate sleep",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Ensuring adequate sleep",
+      "response": "Let me explain this strategy in more detail. Ensuring adequate sleep This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "I'm struggling with stress",
+      "response": "For stress, here's a helpful strategy: Journaling to process thoughts and emotions",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Journaling to process thoughts and emotions",
+      "response": "Let me explain this strategy in more detail. Journaling to process thoughts and emotions This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "How can I deal with stress?",
+      "response": "For stress, here's a helpful strategy: Journaling to process thoughts and emotions",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Journaling to process thoughts and emotions",
+      "response": "Let me explain this strategy in more detail. Journaling to process thoughts and emotions This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "I need help managing my stress",
+      "response": "For stress, here's a helpful strategy: Journaling to process thoughts and emotions",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Journaling to process thoughts and emotions",
+      "response": "Let me explain this strategy in more detail. Journaling to process thoughts and emotions This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "What can I do about my stress?",
+      "response": "For stress, here's a helpful strategy: Journaling to process thoughts and emotions",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Journaling to process thoughts and emotions",
+      "response": "Let me explain this strategy in more detail. Journaling to process thoughts and emotions This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "I'm struggling with stress",
+      "response": "For stress, here's a helpful strategy: Engaging in creative activities",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Engaging in creative activities",
+      "response": "Let me explain this strategy in more detail. Engaging in creative activities This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "How can I deal with stress?",
+      "response": "For stress, here's a helpful strategy: Engaging in creative activities",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Engaging in creative activities",
+      "response": "Let me explain this strategy in more detail. Engaging in creative activities This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "I need help managing my stress",
+      "response": "For stress, here's a helpful strategy: Engaging in creative activities",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Engaging in creative activities",
+      "response": "Let me explain this strategy in more detail. Engaging in creative activities This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "What can I do about my stress?",
+      "response": "For stress, here's a helpful strategy: Engaging in creative activities",
+      "type": "coping",
+      "issue": "stress"
+    },
+    {
+      "input": "Tell me more about Engaging in creative activities",
+      "response": "Let me explain this strategy in more detail. Engaging in creative activities This can help you manage stress by providing a practical tool you can use when you're feeling overwhelmed.",
+      "type": "coping_detail",
+      "issue": "stress"
+    },
+    {
+      "input": "I need to take better care of myself",
+      "response": "Here's a gentle reminder for self-care: Remember to drink water regularly throughout the day",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Remember to drink water regularly throughout the day?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Remember to drink water regularly throughout the day Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "How can I practice self-care?",
+      "response": "Here's a gentle reminder for self-care: Remember to drink water regularly throughout the day",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Remember to drink water regularly throughout the day?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Remember to drink water regularly throughout the day Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I'm feeling burnt out",
+      "response": "Here's a gentle reminder for self-care: Remember to drink water regularly throughout the day",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Remember to drink water regularly throughout the day?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Remember to drink water regularly throughout the day Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need some self-care tips",
+      "response": "Here's a gentle reminder for self-care: Remember to drink water regularly throughout the day",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Remember to drink water regularly throughout the day?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Remember to drink water regularly throughout the day Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need to take better care of myself",
+      "response": "Here's a gentle reminder for self-care: Try to get 7-9 hours of sleep each night",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Try to get 7-9 hours of sleep each night?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Try to get 7-9 hours of sleep each night Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "How can I practice self-care?",
+      "response": "Here's a gentle reminder for self-care: Try to get 7-9 hours of sleep each night",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Try to get 7-9 hours of sleep each night?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Try to get 7-9 hours of sleep each night Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I'm feeling burnt out",
+      "response": "Here's a gentle reminder for self-care: Try to get 7-9 hours of sleep each night",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Try to get 7-9 hours of sleep each night?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Try to get 7-9 hours of sleep each night Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need some self-care tips",
+      "response": "Here's a gentle reminder for self-care: Try to get 7-9 hours of sleep each night",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Try to get 7-9 hours of sleep each night?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Try to get 7-9 hours of sleep each night Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need to take better care of myself",
+      "response": "Here's a gentle reminder for self-care: Take short breaks throughout your day to reset",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Take short breaks throughout your day to reset?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Take short breaks throughout your day to reset Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "How can I practice self-care?",
+      "response": "Here's a gentle reminder for self-care: Take short breaks throughout your day to reset",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Take short breaks throughout your day to reset?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Take short breaks throughout your day to reset Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I'm feeling burnt out",
+      "response": "Here's a gentle reminder for self-care: Take short breaks throughout your day to reset",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Take short breaks throughout your day to reset?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Take short breaks throughout your day to reset Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need some self-care tips",
+      "response": "Here's a gentle reminder for self-care: Take short breaks throughout your day to reset",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Take short breaks throughout your day to reset?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Take short breaks throughout your day to reset Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need to take better care of myself",
+      "response": "Here's a gentle reminder for self-care: Spend some time outdoors to boost your mood",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Spend some time outdoors to boost your mood?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Spend some time outdoors to boost your mood Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "How can I practice self-care?",
+      "response": "Here's a gentle reminder for self-care: Spend some time outdoors to boost your mood",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Spend some time outdoors to boost your mood?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Spend some time outdoors to boost your mood Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I'm feeling burnt out",
+      "response": "Here's a gentle reminder for self-care: Spend some time outdoors to boost your mood",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Spend some time outdoors to boost your mood?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Spend some time outdoors to boost your mood Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need some self-care tips",
+      "response": "Here's a gentle reminder for self-care: Spend some time outdoors to boost your mood",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Spend some time outdoors to boost your mood?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Spend some time outdoors to boost your mood Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need to take better care of myself",
+      "response": "Here's a gentle reminder for self-care: Move your body in ways that feel good to you",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Move your body in ways that feel good to you?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Move your body in ways that feel good to you Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "How can I practice self-care?",
+      "response": "Here's a gentle reminder for self-care: Move your body in ways that feel good to you",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Move your body in ways that feel good to you?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Move your body in ways that feel good to you Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I'm feeling burnt out",
+      "response": "Here's a gentle reminder for self-care: Move your body in ways that feel good to you",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Move your body in ways that feel good to you?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Move your body in ways that feel good to you Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need some self-care tips",
+      "response": "Here's a gentle reminder for self-care: Move your body in ways that feel good to you",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Move your body in ways that feel good to you?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Move your body in ways that feel good to you Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need to take better care of myself",
+      "response": "Here's a gentle reminder for self-care: Practice gratitude by noting three positive things each day",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Practice gratitude by noting three positive things each day?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Practice gratitude by noting three positive things each day Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "How can I practice self-care?",
+      "response": "Here's a gentle reminder for self-care: Practice gratitude by noting three positive things each day",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Practice gratitude by noting three positive things each day?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Practice gratitude by noting three positive things each day Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I'm feeling burnt out",
+      "response": "Here's a gentle reminder for self-care: Practice gratitude by noting three positive things each day",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Practice gratitude by noting three positive things each day?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Practice gratitude by noting three positive things each day Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need some self-care tips",
+      "response": "Here's a gentle reminder for self-care: Practice gratitude by noting three positive things each day",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Practice gratitude by noting three positive things each day?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Practice gratitude by noting three positive things each day Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need to take better care of myself",
+      "response": "Here's a gentle reminder for self-care: Set boundaries with technology and social media",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Set boundaries with technology and social media?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Set boundaries with technology and social media Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "How can I practice self-care?",
+      "response": "Here's a gentle reminder for self-care: Set boundaries with technology and social media",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Set boundaries with technology and social media?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Set boundaries with technology and social media Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I'm feeling burnt out",
+      "response": "Here's a gentle reminder for self-care: Set boundaries with technology and social media",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Set boundaries with technology and social media?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Set boundaries with technology and social media Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need some self-care tips",
+      "response": "Here's a gentle reminder for self-care: Set boundaries with technology and social media",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Set boundaries with technology and social media?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Set boundaries with technology and social media Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need to take better care of myself",
+      "response": "Here's a gentle reminder for self-care: Connect with someone who supports you",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Connect with someone who supports you?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Connect with someone who supports you Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "How can I practice self-care?",
+      "response": "Here's a gentle reminder for self-care: Connect with someone who supports you",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Connect with someone who supports you?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Connect with someone who supports you Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I'm feeling burnt out",
+      "response": "Here's a gentle reminder for self-care: Connect with someone who supports you",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Connect with someone who supports you?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Connect with someone who supports you Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need some self-care tips",
+      "response": "Here's a gentle reminder for self-care: Connect with someone who supports you",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Connect with someone who supports you?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Connect with someone who supports you Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need to take better care of myself",
+      "response": "Here's a gentle reminder for self-care: Engage in an activity solely because you enjoy it",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Engage in an activity solely because you enjoy it?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Engage in an activity solely because you enjoy it Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "How can I practice self-care?",
+      "response": "Here's a gentle reminder for self-care: Engage in an activity solely because you enjoy it",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Engage in an activity solely because you enjoy it?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Engage in an activity solely because you enjoy it Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I'm feeling burnt out",
+      "response": "Here's a gentle reminder for self-care: Engage in an activity solely because you enjoy it",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Engage in an activity solely because you enjoy it?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Engage in an activity solely because you enjoy it Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I need some self-care tips",
+      "response": "Here's a gentle reminder for self-care: Engage in an activity solely because you enjoy it",
+      "type": "self_care"
+    },
+    {
+      "input": "How can I start with Engage in an activity solely because you enjoy it?",
+      "response": "Let's break this down into manageable steps. Start small and be patient with yourself. Engage in an activity solely because you enjoy it Remember, self-care is a journey, not a destination.",
+      "type": "self_care_implementation"
+    },
+    {
+      "input": "I've been experiencing thoughts of harming yourself or others",
+      "response": "I hear your concern about thoughts of harming yourself or others. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I'm worried about thoughts of harming yourself or others",
+      "response": "I hear your concern about thoughts of harming yourself or others. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "Can you tell me more about thoughts of harming yourself or others?",
+      "response": "I hear your concern about thoughts of harming yourself or others. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "What does it mean if I'm thoughts of harming yourself or others?",
+      "response": "I hear your concern about thoughts of harming yourself or others. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I've been experiencing feeling hopeless or that life isn't worth living",
+      "response": "I hear your concern about feeling hopeless or that life isn't worth living. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I'm worried about feeling hopeless or that life isn't worth living",
+      "response": "I hear your concern about feeling hopeless or that life isn't worth living. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "Can you tell me more about feeling hopeless or that life isn't worth living?",
+      "response": "I hear your concern about feeling hopeless or that life isn't worth living. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "What does it mean if I'm feeling hopeless or that life isn't worth living?",
+      "response": "I hear your concern about feeling hopeless or that life isn't worth living. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I've been experiencing significant changes in sleep, appetite, or energy levels",
+      "response": "I hear your concern about significant changes in sleep, appetite, or energy levels. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I'm worried about significant changes in sleep, appetite, or energy levels",
+      "response": "I hear your concern about significant changes in sleep, appetite, or energy levels. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "Can you tell me more about significant changes in sleep, appetite, or energy levels?",
+      "response": "I hear your concern about significant changes in sleep, appetite, or energy levels. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "What does it mean if I'm significant changes in sleep, appetite, or energy levels?",
+      "response": "I hear your concern about significant changes in sleep, appetite, or energy levels. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I've been experiencing withdrawal from friends, family, and normal activities",
+      "response": "I hear your concern about withdrawal from friends, family, and normal activities. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I'm worried about withdrawal from friends, family, and normal activities",
+      "response": "I hear your concern about withdrawal from friends, family, and normal activities. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "Can you tell me more about withdrawal from friends, family, and normal activities?",
+      "response": "I hear your concern about withdrawal from friends, family, and normal activities. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "What does it mean if I'm withdrawal from friends, family, and normal activities?",
+      "response": "I hear your concern about withdrawal from friends, family, and normal activities. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I've been experiencing difficulty functioning at work, school, or in relationships",
+      "response": "I hear your concern about difficulty functioning at work, school, or in relationships. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I'm worried about difficulty functioning at work, school, or in relationships",
+      "response": "I hear your concern about difficulty functioning at work, school, or in relationships. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "Can you tell me more about difficulty functioning at work, school, or in relationships?",
+      "response": "I hear your concern about difficulty functioning at work, school, or in relationships. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "What does it mean if I'm difficulty functioning at work, school, or in relationships?",
+      "response": "I hear your concern about difficulty functioning at work, school, or in relationships. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I've been experiencing overwhelming anxiety, fear, or panic attacks",
+      "response": "I hear your concern about overwhelming anxiety, fear, or panic attacks. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I'm worried about overwhelming anxiety, fear, or panic attacks",
+      "response": "I hear your concern about overwhelming anxiety, fear, or panic attacks. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "Can you tell me more about overwhelming anxiety, fear, or panic attacks?",
+      "response": "I hear your concern about overwhelming anxiety, fear, or panic attacks. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "What does it mean if I'm overwhelming anxiety, fear, or panic attacks?",
+      "response": "I hear your concern about overwhelming anxiety, fear, or panic attacks. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I've been experiencing mood swings that cause problems in relationships",
+      "response": "I hear your concern about mood swings that cause problems in relationships. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I'm worried about mood swings that cause problems in relationships",
+      "response": "I hear your concern about mood swings that cause problems in relationships. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "Can you tell me more about mood swings that cause problems in relationships?",
+      "response": "I hear your concern about mood swings that cause problems in relationships. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "What does it mean if I'm mood swings that cause problems in relationships?",
+      "response": "I hear your concern about mood swings that cause problems in relationships. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I've been experiencing increased use of substances to cope",
+      "response": "I hear your concern about increased use of substances to cope. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I'm worried about increased use of substances to cope",
+      "response": "I hear your concern about increased use of substances to cope. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "Can you tell me more about increased use of substances to cope?",
+      "response": "I hear your concern about increased use of substances to cope. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "What does it mean if I'm increased use of substances to cope?",
+      "response": "I hear your concern about increased use of substances to cope. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I've been experiencing significant changes in behavior or personality",
+      "response": "I hear your concern about significant changes in behavior or personality. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "I'm worried about significant changes in behavior or personality",
+      "response": "I hear your concern about significant changes in behavior or personality. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "Can you tell me more about significant changes in behavior or personality?",
+      "response": "I hear your concern about significant changes in behavior or personality. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    },
+    {
+      "input": "What does it mean if I'm significant changes in behavior or personality?",
+      "response": "I hear your concern about significant changes in behavior or personality. This could be a sign that it's time to reach out to a mental health professional. They can help you understand what's happening and provide appropriate support.",
+      "type": "warning_sign"
+    }
+  ],
+  "timestamp": "2025-04-10T16:52:57.745039",
+  "version": "1.0"
+}
