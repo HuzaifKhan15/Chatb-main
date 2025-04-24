@@ -400,16 +400,19 @@ def home_page():
     
     with col2:
         st.markdown("""
-        <div class="home-container animated delay-2">
-            <h2 class="home-title">Meet Our Mental Health Professionals 🧠</h2>
-            <p class="home-content">
-                Connect with licensed professionals who can provide personalized care and guidance for your mental health journey.
-            </p>
-            <ul class="custom-bullet home-content">
-                <li>Expert therapists and counselors</li>
-                <li>Specialized in various mental health areas</li>
-                <li>Personalized treatment plans</li>
-            </ul>
+        <h2 class="home-title">ML-Based Healthcare Recommendation System</h2>
+        <p class="home-description">Get personalized healthcare insights powered by advanced machine learning.</p>
+
+run
+        <div class="feature-grid">
+            <div class="feature-card">
+                <h3>Advanced symptom analysis</h3>
+                <p>Probable condition identification</p>
+            </div>
+            <div class="feature-card">
+                <h3>Trusted suggestions & treatment options</h3>
+                <p>Tailored medication and dietary guidance</p>
+            </div>
         </div>
         """, unsafe_allow_html=True)
         

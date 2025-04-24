@@ -2,17 +2,17 @@
   "training_data": [
     {
       "input": "I'm feeling anxious",
-      "response": "Hello! I'm here to listen. What would you like to talk about?",
+      "response": "Hey! How's your day going?",
       "type": "greeting"
     },
     {
       "input": "I'm feeling anxious",
-      "response": "I hear how difficult this is for you.",
+      "response": "It makes sense that you'd feel this way.",
       "type": "validation"
     },
     {
       "input": "I just need someone to talk to",
-      "response": "When did you first notice this?",
+      "response": "How does that make you feel?",
       "type": "follow_up"
     },
     {
@@ -22,17 +22,17 @@
     },
     {
       "input": "I'm feeling sad",
-      "response": "That's a lot to deal with.",
+      "response": "Your feelings are completely valid.",
       "type": "validation"
     },
     {
       "input": "I just need someone to talk to",
-      "response": "Tell me more about that.",
+      "response": "How long have you been feeling this way?",
       "type": "follow_up"
     },
     {
       "input": "I'm feeling overwhelmed",
-      "response": "Hi! What brings you here today?",
+      "response": "Hello! I'm here to listen. What would you like to talk about?",
       "type": "greeting"
     },
     {
@@ -42,22 +42,22 @@
     },
     {
       "input": "I just need someone to talk to",
-      "response": "Tell me more about that.",
+      "response": "How long have you been feeling this way?",
       "type": "follow_up"
     },
     {
       "input": "I'm feeling stressed",
-      "response": "Hi there! What's on your mind?",
+      "response": "Hi! What brings you here today?",
       "type": "greeting"
     },
     {
       "input": "I'm feeling stressed",
-      "response": "I hear how difficult this is for you.",
+      "response": "That sounds really challenging.",
       "type": "validation"
     },
     {
       "input": "I just need someone to talk to",
-      "response": "Tell me more about that.",
+      "response": "How long have you been feeling this way?",
       "type": "follow_up"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "input": "I'm feeling lonely",
-      "response": "That's a lot to deal with.",
+      "response": "That sounds really challenging.",
       "type": "validation"
     },
     {
@@ -82,12 +82,12 @@
     },
     {
       "input": "I'm feeling confused",
-      "response": "It makes sense that you'd feel this way.",
+      "response": "Your feelings are completely valid.",
       "type": "validation"
     },
     {
       "input": "I just need someone to talk to",
-      "response": "How long have you been feeling this way?",
+      "response": "What thoughts come up when you think about this?",
       "type": "follow_up"
     },
     {
@@ -1591,6 +1591,6 @@
       "type": "warning_sign"
     }
   ],
-  "timestamp": "2025-04-10T16:52:57.745039",
+  "timestamp": "2025-04-24T18:22:27.013898",
   "version": "1.0"
 }
